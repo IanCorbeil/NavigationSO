@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: InfosDeNavigation
   m_EditorClassIdentifier: 
   _niveauIni: 0
-  _niveau: 1
+  _niveau: 4
   _buildIndexMenu: 0
   _buildIndexN1: 1
   _nbScenesDuBuild: 2
